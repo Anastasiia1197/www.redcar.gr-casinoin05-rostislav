@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://xo-service.ru/sitemap.xml
+Sitemap: https://www.redcar.gr/sitemap.xml
